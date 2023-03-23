@@ -40,4 +40,4 @@
     - ❓ if have a question concerning the last or the next sprint
     - 💡 if have an idea to improve something or to promote a subject
 - After that each team memebers vote with 3 stars his favorites tickets where he want to do an action
-- Take the three most voted tickets and choose one member by ticket to do an action on it
+- Take the three most voted tickets and choose one member by ticket to do 🎬 actions on it
