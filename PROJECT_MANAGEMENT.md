@@ -3,7 +3,7 @@
 ## Agile methodology
 
 ### Tools
-- One Kanban board : to create the sprint with the binded tasks 
+- One Scrum board : to create the sprint with the binded tasks 
     - each task can have 3 status (todo, inProgress, done)
     - the done status is set when the feature is delivered in production
 - One shared TODO list 
