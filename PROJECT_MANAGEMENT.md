@@ -3,19 +3,20 @@
 ## Agile methodology
 
 ### Tools
+- One Kanban board : to create the sprint with the binded tasks 
+    - each task can have 3 status (todo, inProgress, done)
+    - the done status is set when the feature is delivered in production
 - One shared TODO list 
     - each team member can add his todos or wishs about the project 
     - those todos will be converted in backlog entries after the "ToDoList review"
-- One Kanban tool : to create the sprint with the binded task 
-    - each task can have 3 status (todo, inProgress, done)
-    - the done status is set when the feature is delivered in production
 - Sprint on 2 weeks with severals ceremonies
     - TODO List review
     - Support Turning Role
-    - Retrospective
     - Tri Weekly (3 daily per week) (notify the sprint progression and the support news)
     - Workshops
     - Backlog Refinement
+    - Retrospective
+    - Next sprint creation
 
 ### Sprint example
 
